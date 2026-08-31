@@ -1,0 +1,5 @@
+.venv_edupro/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.DS_Store
